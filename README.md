@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="https://github.com/sagarkhadka/sagarkhadka/blob/main/icons/Hi.gif" width="28px"/>, I'm Sagar Khadka</h1>
+<h1 align="center">Hi, I'm Sagar Khadka</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <!-- <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;"> -->
   Frontend Developer
-  <a href="https://[your-portfolio-link]">
+  <a href="[https://[your-portfolio-link]](https://portfolio-sagarkhadka.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
